@@ -28,7 +28,21 @@ var questions=[{
 },{
   question:"My fav band? ",
   answer:"Linkin Park"
-}]
+},
+{
+  question:"My age?  ",
+  answer:"22"
+},
+{
+  question:"my fav number?  ",
+  answer:"1729"
+}
+
+
+
+
+
+]
 
 
 for(var i=0;i<questions.length;i++){
